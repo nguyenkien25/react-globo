@@ -1,0 +1,12 @@
+#### Install React: 
+npm i -g react-native-cli
+npm i -g create-react-native-app
+
+#### Create Project: 
+create-react-native-app <appname>
+
+#### Install react navigation:
+npm install --save react-navigation@1.5.11
+
+#### Install react html
+npm install react-native-render-html --save
